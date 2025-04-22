@@ -1,4 +1,3 @@
-// twoSum 
 // Two Sum Problem
 // Write a function twoSum(nums, target) that takes an array of integers nums and an integer target. The function should return the indices of two numbers in the array that add up to the target.
 // You can assume that:
